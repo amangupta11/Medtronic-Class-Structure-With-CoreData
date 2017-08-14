@@ -1,0 +1,1 @@
+# Medtronic-Class-Structure-With-CoreData
